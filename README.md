@@ -1,6 +1,5 @@
 # INESWB
 First page of Realief website
- <!doctype html>
 <html>
   <head>
       <meta charset="utf-8" /> 
